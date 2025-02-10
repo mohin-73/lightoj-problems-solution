@@ -1,2 +1,1 @@
-# lightoj-problems-solution
-LightOJ problems solution
+mohin_73
